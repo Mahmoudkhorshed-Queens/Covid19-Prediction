@@ -21,3 +21,16 @@ model hyperparameter. The class weight is a dictionary that
 defines each class label (0 and 1) and the weighting to apply in
 the calculation of the negative log-likelihood when fitting the
 model. 
+
+## Notes
+
+
+
+It is recommended to run the project on colab or jupyter.
+not to run on VS code . 
+Thanks ..
+
+With Team members:-
+1- Mahmoud Adel Khorshed
+2- Mahmoud MOHAMED ABDELHAMIED abdien
+3- Mahmoud Ahmed Mahmoud Habib
