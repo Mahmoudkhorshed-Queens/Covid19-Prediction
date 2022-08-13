@@ -12,8 +12,8 @@ label ('result'). The data set has 863 records and 14 features.
 The problem in that data set: - the number of class (0) is 755 and
 the number value of class (1) is 108 which mean the class label is
 highly unbalanced it will result the splitting to be unfair for both
-classes. We can solve it by weighting the model (increasing class
-1) and splitting and stratifying the data evenly between both
+classes. We can solve it by weighting the model 
+(increasing class 1) and splitting and stratifying the data evenly between both
 labels. We Weighted the models (Weighted Logistic Regression -
 Naive Bayes priors) in our project. The two models’ classes
 provide the class weight argument that can be specified as a
